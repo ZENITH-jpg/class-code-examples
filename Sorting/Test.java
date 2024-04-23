@@ -1,12 +1,16 @@
-/*
-Author: Mr. Guglielmi
-Date: 12/03/2024
-Description: This is a simple test class to illustrate the timer and sorter objects
-*/
 import java.util.Scanner;
 import java.util.Random;
+/**
+Test class to illustrate the timer and sorter objects
+@author Mr. Guglielmi
+@author Tristan Cao
+@version 1.0
+*/
 public class Test{
-
+    /**
+    Main method to test out functions
+    @param args  Arguments that are passed from the command line
+    */
     public static void main (String[] args){
 	 
 	 	//init a large array and fill it with random numbers
